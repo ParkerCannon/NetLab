@@ -1,0 +1,18 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor/backup files
+*.swp
+*.swo
+*~
+*.bak
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Python cache from local test servers
+__pycache__/
+*.py[cod]
